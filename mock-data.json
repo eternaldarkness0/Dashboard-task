@@ -1,0 +1,23 @@
+{
+    "portfolioLossRatio": {
+    "value": 48.2,
+    "target": 55,
+    "status": "good",
+    "difference": -6.8
+    },
+    "renewalRetention": {
+    "value": 88,
+    "targetRange": [85, 90],
+    "status": "onTarget"
+    },
+    "newBusinessTarget": {
+    "current": 8.1,
+    "target": 12
+    },
+    "annualGwpTarget": {
+    "current": 28.4,
+    "target": 42
+    }
+}
+
+
