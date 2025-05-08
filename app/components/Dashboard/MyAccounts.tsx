@@ -35,7 +35,7 @@ return (
                 
             </div>
 
-    <div className='overflow-x-scroll'>
+    <div className='overflow-x-scroll no-scrollbar'>
         <table className='w-full text-sm text-left'>
             <thead className='text-gray-400 text-xs bg-[#2c3a71]'>
                 <tr>

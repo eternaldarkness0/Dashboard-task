@@ -33,7 +33,7 @@ const WorkQueue = () => {
                     </div>
                 </div>
 
-            <div className='overflow-x-scroll'>
+            <div className='overflow-x-scroll no-scrollbar'>
                 <table className="min-w-full text-sm text-left text-white mt-4">
                         <thead className=" text-gray-400 text-xs">
                             <tr className='bg-[#2c3a71]'>
